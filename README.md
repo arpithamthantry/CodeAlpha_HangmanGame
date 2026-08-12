@@ -22,8 +22,7 @@ HOW TO RUN
 1. Make sure Python 3 is installed on your computer.
 2. Clone or download this repository.
 3. Open the project folder in a terminal.
-4. Run:
-```bash
+4. Run: ```bash
 python hangman.py
 
 HOW TO PLAY
