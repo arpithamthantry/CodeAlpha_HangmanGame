@@ -1,7 +1,7 @@
 import random
 EASY_WORDS=["apple","house","water","music","chair","school","green","happy","river","light"]
 MEDIUM_WORDS=["python","computer","database","developer","internet","software","keyboard","science","network","program"]
-HARD_WORDS = ["algorithm","programming","cybersecurity","architecture","cryptography","artificial","intelligence","technology","development","debugging"]
+HARD_WORDS = ["algorithm","programming","cybersecurity","architecture","cryptography","artificialintelligence","technology","development","debugging"]
 HANGMAN_STAGES = [
     """
       +---+
