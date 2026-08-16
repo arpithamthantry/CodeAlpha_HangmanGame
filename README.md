@@ -18,7 +18,7 @@ A fun and interactive Hangman word-guessing game developed in Python as part of 
 ## Technologies Used
 
 - Python 3
-- Random module
+- random module
 - Standard Python libraries
 
 ## How to Run
